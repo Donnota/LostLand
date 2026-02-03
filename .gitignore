@@ -1,0 +1,19 @@
+/.svn
+/.vs
+/Saved
+/Intermediate
+# Unreal Engine generated folders
+/Binaries
+/DerivedDataCache
+
+# Plugin generated folders
+/Plugins/*/Binaries
+/Plugins/*/Intermediate
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
