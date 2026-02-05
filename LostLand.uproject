@@ -127,6 +127,11 @@
 		{
 			"Name": "StateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "BehaviorTreePlus",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/eeeeae0cc7bc494ab5390d0f8357d2ba"
 		}
 	]
 }
