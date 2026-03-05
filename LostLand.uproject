@@ -101,11 +101,7 @@
 		},
 		{
 			"Name": "UNTLink",
-			"Enabled": true
-		},
-		{
-			"Name": "GASAttachEditor",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "RenameTool",
@@ -130,7 +126,7 @@
 		},
 		{
 			"Name": "BehaviorTreePlus",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/eeeeae0cc7bc494ab5390d0f8357d2ba"
 		},
 		{
